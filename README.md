@@ -7,7 +7,7 @@ This script allows you to display and copy the URLs of videos that are playing o
 2. Create a New UserScript: Open your UserScript manager extension and create a new UserScript.
 
 3. Copy and Paste the Code: Copy the code and paste it into the UserScript editor.
-. https://github.com/Rainman69/video-link-grabber/blob/main/Video%20URL%20grabber
+. https://github.com/Rainman69/video-link-grabber/blob/main/video%20url.js
 
 4. Save and Enable the UserScript: Save the UserScript, and the UserScript manager will enable it automatically.
 
