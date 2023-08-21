@@ -1,4 +1,5 @@
 # video-link-grabber
+
 This script allows you to display and copy the URLs of videos that are playing on webpages. Here's how you can use this code:
 
 1. Install a UserScript Manager: To use this user script, you need a UserScript manager extension installed in your browser. Popular options include Tampermonkey (for Chrome) and Greasemonkey (for Firefox). Install one of these extensions based on the browser you're using.
@@ -6,6 +7,7 @@ This script allows you to display and copy the URLs of videos that are playing o
 2. Create a New UserScript: Open your UserScript manager extension and create a new UserScript.
 
 3. Copy and Paste the Code: Copy the code and paste it into the UserScript editor.
+. https://github.com/Rainman69/video-link-grabber/blob/main/Video%20URL%20grabber
 
 4. Save and Enable the UserScript: Save the UserScript, and the UserScript manager will enable it automatically.
 
