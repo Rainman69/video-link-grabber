@@ -25,6 +25,7 @@ This script allows you to display and copy the URLs of videos that are playing o
 
 That's it!
 
-![Screenshot_2](https://github.com/Rainman69/video-link-grabber/assets/96986338/c63c772f-2b36-4cc6-8386-25c8b98c4da1)
+![Screenshot_2](https://github.com/Rainman69/video-link-grabber/assets/96986338/00cc9831-9fda-4644-81bc-84ecd3d6abd1)
+
 
 https://t.me/TheErfon
