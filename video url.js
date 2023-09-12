@@ -3,8 +3,11 @@
 // @namespace    https://github.com/Rainman69/video-link-grabber
 // @version      1.0
 // @description  Display video URLs and allow copying on the webpage while playing videos.
+// @author       https://t.me/TheErfon
 // @match        *://*/*
 // @grant        GM_addStyle
+// @license      CC BY-NC-ND 4.0
+// @licenseURL   https://github.com/Rainman69/video-link-grabber/blob/main/LICENSE
 // ==/UserScript==
 
 (function() {
