@@ -28,4 +28,4 @@ That's it!
 ![Screenshot_2](https://github.com/Rainman69/video-link-grabber/assets/96986338/00cc9831-9fda-4644-81bc-84ecd3d6abd1)
 
 
-https://t.me/TheErfon
+https://t.me/DamnAmo
